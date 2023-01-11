@@ -1,1 +1,1 @@
-This is machine learning for trading
+This is machine learning for trading from udacity
